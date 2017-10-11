@@ -1,0 +1,11 @@
+{
+  "name": "gamelib",
+  "version": "1.0.0",
+  "description": "A game library for creating ASCII-like web games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Kronenberg <toddkronenberg@gmail.com>",
+  "license": "ISC"
+}
